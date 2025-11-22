@@ -20,5 +20,3 @@ df <- data.frame(
 )
 
 validate_rules(df, "sex=='Male' -> isPregnant==FALSE")
-
-hello
