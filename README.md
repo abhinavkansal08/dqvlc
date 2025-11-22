@@ -1,6 +1,6 @@
 # dqvlc
 
-Data Quality Validation and Cleaning Toolkit.
+Data Quality Validation with Logical Conditioning.
 
 ## Functions
 
