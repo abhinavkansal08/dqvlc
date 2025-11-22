@@ -25,7 +25,7 @@ epidemiologic, and general-purpose datasets.
 ```r
 # Install from GitHub
 # install.packages("devtools")
-devtools::install_github("jihkim906/dqvlc")
+devtools::install_github("abhinavkansal08/dqvlc")
 
 library(dqvlc)
 
