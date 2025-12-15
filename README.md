@@ -74,7 +74,7 @@ res <- validate_rules(df, rules)
 res$summary
 
 # Rows that violated the first rule
-res$violating_rows][1]
+res$violating_rows[1]
 ```
 
 This example identifies any records where a male is incorrectly marked as pregnant.
